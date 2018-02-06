@@ -1,4 +1,4 @@
-package com.teamtreehouse.colorizer;
+package com.sairam.colorizer;
 
 import org.junit.Test;
 

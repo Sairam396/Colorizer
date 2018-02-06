@@ -1,4 +1,4 @@
-package com.teamtreehouse.colorizer;
+package com.sairam.colorizer;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
